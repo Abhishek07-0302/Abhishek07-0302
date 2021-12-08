@@ -2,7 +2,7 @@
 
 🎇 I'm a passionate Web Developer.
 
-🌱 I’m currently learning Data structures and algorithm.
+🌱 I’m currently learning Data structures and Algorithm.
 
 - 📫 Reach me: kr.abhishek0183@gmail.com
 
